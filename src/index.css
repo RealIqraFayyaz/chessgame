@@ -1,0 +1,14 @@
+.box{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: -2px;
+    background-color: rgb(159, 185, 114);
+    font-size: 90px;
+    text-align: center;
+}
+.green{
+    background-color: rgb(60, 136, 60);
+    color: white;
+}
